@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(148): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(161): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(199): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(205): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(359): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(372): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\enric\documents\github\sfml-minesweeper\sfmlminesweeper\main.cpp(391): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: Modul-Computertyp "x86" steht in Konflikt mit dem Zielcomputertyp "x64".
